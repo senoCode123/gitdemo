@@ -1,3 +1,4 @@
 test.html
 test.txt
 test.docx
+test.png
